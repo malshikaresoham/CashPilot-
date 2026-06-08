@@ -1,0 +1,6 @@
+{
+  "name": "CashPilot",
+  "description": "Your Personal Money Co-Pilot",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
